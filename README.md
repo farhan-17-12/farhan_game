@@ -15,4 +15,4 @@ Aplikasi mobile berbasis Flutter yang menyajikan katalog game gratis secara real
 ## Cara Menjalankan Aplikasi
 1. Clone repositori ini:
    ```bash
-   git clone [https://github.com/USERNAME_KAMU/farhan_game.git](https://github.com/USERNAME_KAMU/farhan_game.git)
+   git clone [https://github.com/farhan-17-12/farhan_game.git](https://github.com/farhan-17-12/farhan_game.git)
